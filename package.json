@@ -1,0 +1,22 @@
+{
+  "name": "Classpro",
+  "version": "0.1.0",
+  "description": "Million Dollar Project",
+  "main": "server.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "classpro",
+    "studentdb",
+    "student",
+    "database",
+    "blog"
+  ],
+  "author": "Siddharth Majumdar <sidd281993@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.7",
+    "hbs": "^2.8.0"
+  }
+}
